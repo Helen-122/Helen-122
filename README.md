@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hélène Mazourine</h1>
 <h3 align="center">A frontend developer from Paris</h3>
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **Figma**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **UX design**
 
-- 🤝 I’m looking for help with **finding an internship!**
+- 🤝 I’m looking for help with **finding a job !**
 
 - 📫 How to reach me **helene.mazourine@gmail.com**
 
