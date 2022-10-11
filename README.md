@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hélène Mazourine</h1>
-<h3 align="center">A frontend developer soon to be UX designer from Paris</h3>
+<h3 align="center">A UX designer from Paris</h3>
 
-- 🔭 I’m currently working on **Figma**
+- 🔭 I’m currently working on **Milou app**
 
 - 🌱 I’m currently learning **UX design**
 
-- 🤝 I’m looking for help with **finding a job !**
-
 - 📫 How to reach me **helene.mazourine@gmail.com**
 
-- 📄 Know about my experiences [https://helen-122.github.io/](https://helen-122.github.io/)
+- 📄 Know about my experiences [https://uxfol.io/HeleneMazourine)
 
 - ⚡ Fun fact **I know how to whistle with a blade of grass**
 
