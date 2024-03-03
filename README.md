@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **WordPress**
 
-- 🌱 I’m currently learning **Outsystems **
+- 🌱 I’m currently learning **Outsystems**
 
 - 📫 How to reach me **helene.mazourine@gmail.com**
 
