@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hélène Mazourine</h1>
-<h3 align="center">A UX designer from Paris</h3>
+<h3 align="center">A UXUI Designer from Paris</h3>
 
 - 🔭 I’m currently working on **WordPress**
 
