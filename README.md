@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **helene.mazourine@gmail.com**
 
-- 📄 Know about my experiences [https://uxfol.io/HeleneMazourine)
+- 📄 Know about my experiences **https://helenemazourine.fr/**
 
 - ⚡ Fun fact **I know how to whistle with a blade of grass**
 
